@@ -6,3 +6,4 @@ List of scratches:
 2. Monkey sort realization (Bogosort)
 3. Serpinski triangle 
 4. Serpinsky carpet
+5. Random walk 
